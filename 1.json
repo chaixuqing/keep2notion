@@ -7,13 +7,13 @@
             "birthday": 964483200000,
             "_id": "59f7ea0ce666860298f0a880"
         },
-        "id": "59f7ea0ce666860298f0a880_9223370338707100065_rn",
+        "id": "59f7ea0ce666860298f0a880_9223370289464236807_hk",
         "feel": -1,
-        "calorie": 26,
-        "duration": 227,
-        "startTime": 1698147448106,
-        "endTime": 1698147675742,
-        "type": "run",
+        "calorie": 85,
+        "duration": 1166,
+        "startTime": 1747389362000,
+        "endTime": 1747390539000,
+        "type": "hiking",
         "subtype": "normal",
         "timezone": "Asia/Shanghai",
         "richText": "",
@@ -30,34 +30,29 @@
             "public": false
         },
         "eventInfos": [],
-        "liveSessionId": "59f7ea0ce666860298f0a880_city010_1698147448554",
+        "liveSessionId": null,
         "doubtful": false,
         "doubtfulTips": "",
         "doubtfulScore": 0.0,
-        "flags": [
-            411,
-            421,
-            4294,
-            43,
-            451,
-            28,
-            62,
-            633,
-            460,
-            482
-        ],
+        "flags": [],
         "heartRate": {
-            "heartRates": "H4sIAAAAAAAAAIuOBQApu0wNAgAAAA==",
-            "averageHeartRate": 0.0,
-            "maxHeartRate": 0,
-            "wearableDevices": []
+            "heartRates": "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",
+            "averageHeartRate": 112.0,
+            "maxHeartRate": 122,
+            "wearableDevices": [
+                {
+                    "macAddress": null,
+                    "name": " HUAWEI Band 9",
+                    "deviceType": "Huawei"
+                }
+            ]
         },
         "vendor": {
-            "source": "Keep",
-            "manufacturer": null,
-            "genre": "KeepApp",
-            "deviceModel": null,
-            "vendorRecordId": null
+            "source": "thirdParty",
+            "manufacturer": "Huawei",
+            "genre": "Huawei",
+            "deviceModel": " HUAWEI Band 9",
+            "vendorRecordId": "1747389362000_hk_outdoorWalking"
         },
         "planId": null,
         "workoutId": null,
@@ -69,18 +64,18 @@
         "feedback": null,
         "feedbacks": null,
         "playType": null,
-        "dataType": "outdoorRunning",
+        "dataType": "outdoorWalking",
         "badgeAchievementCard": null,
         "goalType": "casual",
         "goalValue": 0,
-        "distance": 428.1013,
-        "averagePace": 530,
-        "averageSpeed": 6.7,
+        "distance": 960.0,
+        "averagePace": 1214,
+        "averageSpeed": 2.9,
         "polylineSnapshot": null,
-        "constantVersion": "129.79",
-        "rawDataURL": "https://static1.keepcdn.com/txt/2023/10/24/19/41/d2c642ca7bfd300659f7ea0ce666860298f0a880.txt",
-        "crossKmPoints": [],
-        "geoPoints": "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",
+        "constantVersion": "1.3.21",
+        "rawDataURL": null,
+        "crossKmPoints": null,
+        "geoPoints": "",
         "region": {
             "latitude": 39.96138427734375,
             "longitude": 116.36007080078124,
@@ -89,76 +84,44 @@
             "province": "北京市",
             "city": "北京市",
             "cityCode": "010",
-            "district": "海淀区",
-            "districtCode": "110108",
+            "district": null,
+            "districtCode": null,
             "startLatitude": 0.0,
             "startLongitude": 0.0
         },
-        "weatherInfo": {
-            "temperature": "18°C",
-            "humidity": "56%",
-            "humidityIcon": "https://static1.keepcdn.com/infra-cms/2021/01/04/12/28/344815125506_144x144.png",
-            "weatherTypeIcon": "https://static1.keepcdn.com/infra-cms/2021/01/04/12/27/344586305810_144x144.png"
-        },
+        "weatherInfo": null,
         "targetSpm": 0,
-        "accumulativeUpliftedHeight": 16.715034,
-        "accumulativeClimbingDistance": 181.91875,
-        "mapboxStyle": {
-            "id": "57ce3e8d0110b2d67d1336c1",
-            "pathColor": {
-                "fastPathColor": {
-                    "r": 44,
-                    "g": 226,
-                    "b": 255
-                },
-                "normalPathColor": {
-                    "r": 36,
-                    "g": 199,
-                    "b": 137
-                },
-                "slowPathColor": {
-                    "r": 243,
-                    "g": 82,
-                    "b": 82
-                }
-            },
-            "style": "keep",
-            "title": "Street",
-            "amapStyle": "keep",
-            "amapAndroidZipUrl": "https://static1.keepcdn.com/2019/07/10/11/936452aaf743dff0679aaec58cbb82856efb560f.zip",
-            "amapIOSZipUrl": "https://static1.keepcdn.com/2019/08/27/18/a87ede17b261cc1fb837a71da57c1489229602a5.zip",
-            "amapZipUrl": null,
-            "tencentMapStyleId": null,
-            "backgroundPicUrl": null,
-            "backgroundPicWidth": 0,
-            "backgroundPicHeight": 0
-        },
+        "accumulativeUpliftedHeight": 0.0,
+        "accumulativeClimbingDistance": 0.0,
+        "mapboxStyle": null,
         "privacy": false,
-        "stepPoints": "H4sIAAAAAAAAAF2OywrCMBBF/2XWQRqbWtu1OxEKdle6GOpUgm0aMgkI4r87BcHHbu45cO90D2BPdIE622QKhrAwH+cThpsQySkEcrHBgaAu8g9pl4jTwXJEtyq9KfM/lwJGu7jVZab4ledInqHeKhgnvMrV9QosN5hYykacmBT4QMwp0Pu1aGeSudlLo8Tk7L39Qrtqr01pTKUL/exfotZ0QdcAAAA=",
+        "stepPoints": "H4sIAAAAAAAAAO2dW2/dxhlF/4ufjQPOfSZvRfvWFgjavBV9OJEVR6giG7oUDYr+91KOI1EluTvAt9nBQfebLMmyaCysuXBx+Jd/vrs9P948Pn24fvfNdJrev7v9dPdx+efz7Zsvf76/fnh4un/56tXV0/356uc/nT/cPD18/eTjzU/XD4/nnz6/+ybNf3y6u/nHd6+fciWWUFvIZZrmr948fHt+eph/3g/n24fr9++u7j89PPz+pz+e7/82/7j5z0/399d3j999ejzf/u5m/hl3V/M319Prl749P38m+/T8y1/NV/Pp7rufP8+fcm//9m/Pt5/ub65//S2XX/rz4/Xn+fPt/buHz9fXH+bf+1Tyf/zb83U+/+jnr81/+4fb88f5b9w93d4+X8PzD/j2083d47tvHu+f5sv4+/X9483V+fY3X/+DXv77Pl3N/4F/OH9/ffvl8r6/Pt/f3H389Xd6fPrx1x86f/zh9eMPi89/ePn8w/3LR+dfP/rx5df6OH/r4uPHl+99+Y7Pb/7rH95exL/eHwyHm/bpKN5Ah8srPFKtZjz89MJHPrnnX3CKe5C4SZSQKAEOKRaH+LimJNklEtyCklh3AZFGSIB4oJFq0Ujw61EmZzMg0S+GmV2BeAmExQcQSLUIJKxnITUEMx/plY94Cn4XEAmEBEgAAmkWgcSwAqRNzQxIfh1hwqntzlODDMICBBikWQwS2wqQku2AFLcwSN6dggQZhARI3DdInCwGSekQQGofIFEGYQGyb5A4WQySj5mjNtczR40SCG2fbJ8PZxFI3hhhXDTz4aYlIPvbIEkGYRECDOIsBinHDDHO9Y0xSQ4hEZKBQ7zFIdUdsoxxi/1UtI7JcgiLEOAQb7ods95w5xDS+giRQ0iEFOCQYHFIO8ghoXYRUuQQFiHAIcHikFaOmYfE0jUPKXIIiZAKHBJNt3Wn9X4qZTGTStdipkoiLESARKJFIs5NxyCSOxGRRUiINGCRZLKIWw80jC0zV5aI7BLSJBEWIUAiySSRjTKEIpHaJ5EmifAKs31GsskiYT3QMG7+u7acru7f/Z+vTJCwIAEiMVWqLqz3RRiQ+Cl3QiKTsCABsWq0xapxfQuPsfD1LnUtfJ1SVR4kwCSmVtVtlCKMSav3qWfS6lSr0hgBuWo05aourUcbCiOhjxEVqzxGgEdMyarL6y00CiOxkxF5hMUIqFajqVp1ZX2vhvL4THpl5L8/P6N6lUcKsIkpX3VlY1ZCeA7P56VN9p/EcypYaZCAhDWZEla3EQcwdtN8WUICTKKKlQfJvkmSKWN17aBFcO1cBCtlJT6vuQ+JqWV1bf3AFQWSFvsgUc3KgwSYxJSz+umYmzdhCn3DjYJWGiSgaE2motVvZQIEkwQX+kyippUHCTCJKWr1G8dIUEzifZ9JlLXSIAFdazJ1rd4fM3ENwfeZRGUrDxJgElPa6v0xJwWEuHzGBtwHVtxKgwTUrclUt/qwnrhSIHmmugcS5a08SIBJTH2rjwdNXFPrG24UuNIgAYVrMhWuPm5MXBmQ5NoHiRpXHiTAJKbI1aeNiStjdVNq3+pGlSvxALR9SEyVq0/H7LiG2vdQllflyoMEmMRUufp80MS1M4X2qlxpkIDKNZkqV1/WE1cGJHFKfZCocuVBAkxiO5F14yySXx7hsFLiXu/whdNuT+KVudIgAZlrMmWuvq5NwjhKIPolI/tHCXh1rjxIgElMnauva5NQIAmhExKZhAUJCF2TKXT1bW0SznCzOOIZDTdqXHmQAJOYGlff1qsb9+VwMyski335cPL7B4ErcqVRAiLXbIpc/UaaxlFJql0qUeTKg2RfJdkUuYaN82sok5Kc+yYlilxpkIDINZsi1zCtTUKBZJHLQ0gUufIgASYxRa7BrU3CGW5q6BpuFLnSIAGRazZFrsEdNSdpfcsbRa48SIBJTJFr8MfMSdLigHA43ChypUECItdsilzDRr9IMUmaWpdJFLnyIAEmMUWuYeN1aZSNkuSWS2CwUaLKlUYJqFyzqXINYeMWH+MEiuRfF8H+5PZdosyVRwlwiSlzDRsHpxFGmwUiq+9ZEiKPsAgBjWs2Na5jCVHgyiMEOMQUuA4mRA4hERJA3ZpNdetQQoLSVh4hwCGmtHUwIXIIixDQtWZT1zqWEEWtPEKAQ0xR62BC5BAWIaBozaaidSwhyll5hACHmHLWwYTIISxCQMuaTS3rWEIUsvIIAQ4xhayDCZFDWISAiLWYItaxhKhg5RGy75BiK1jHEiKHsAgB+Wqx5atDCVG7yiMEOMTWro4lRA5hEQLC1WILV4cSomqVRwhwiK1aHUuIHMIiBCSrxZasDiVEvSqPEOAQY686lBA5hEUIaFWLsVUdSYg6VR4hwCGX26kGdao0QkCnWi63Uw3qVHmEAIdcbqca1KmyCImgUy2X26lGdao8QoBDLrdTjepUaYSATrUYO9WyIsRTHuFdQOJOuyc5R6WqPEiARmyp6sbbJTjPeYfl4TO7z2ZG1ao0SECtWmy16tbbJQgvDkix732+UcEqDxJgEluwuvF2CcZx3yktX9W6f9x3VLNKgwQ0q8XWrKb1nIQz3OSuU6yislUeJMAktmw1uzUkX7xlhaS8nmLlT3V/5qp0lUYJSFerLV3NG8eKUCipUx8lyld5lOy7pNry1dyOoqR2UiKXsCgBCWu1Jaxl43BNCiUt91GijJVHCXCJLWMt62Wwi76aKclTXFCS9pc4SllplICUtdpS1rIx4lAocb6PEuWsPEqAS2w5a904OpFCiZ86KZFLWJSApLXakta6MeIwtkuy73rHRFTVyoMEqMRWtbb1dgnjPOcc+t4xERW20iABYWu1ha3tKJPEvvt8alt5kACTmNrWr+HPW0gY5znntNyd3z/POapvpVEC+tZq6lvjtPF6NIpKsutSiRJXHiRAJabENU4bq2AOJF3vD4iqXFmQJFC5VlPlGt0xr5HP5XV1g5KBpNCVBwkwiSl0/Rr/vI2PMmF5U/MCkry7NZ/UutIgAa1rNbWu0R9TqOXWV6glta48SIBJTK1rDOu7fAxIytQLiUzCggS0rtXUusawnrgy5iRfQOuZk6h15UECTGJqXWNcT1wZW67FL/dJ9rdck1pXGiSgda2m1jXGtUkokIS+9ywmta48SIBJTK1rTAdtppU49eyTJKWuNEhA6tpMqWtMGy/jZOzLl7jcTNvfl09KXXmU7KukmVLXmA9KSkpapq77SUlS6kqjBKSuzZS6xrzeKaGsb1LnnqtKVx4kQCWm0jWWY57lK7l0QiKTsCABoWszha6xrGcllO208roxD7fT1LnyIAEmMXWuX4sOPiS1FxKZhAUJyFybKXONbT3cUCDpvXujzJUHCTCJKXONbb2dxoCkLh6+wZDIJCxIQObaTJlrmo65D1xdJyTKXHmQAJOYMtfkjrkPXBd3bzAkMgkLElC5NlPlmtzGcEPIjmp4fYoPZkeqXHmQAJOYKtev92H5kETXCYlMQoIkg8q1mSrXFNbPZ1Egeaa6A5KsypUHCTCJqXJNG4d1UuYkeeqak2RVrjRIQOXaTJVr2siOOJC0PkhUufIgASYxVa4prYebnLMdkrKEBDAikbAYAZFrM0WuaSMooUxJau2bkihy5UECRGKKXFM+aLRppW+0UeRKgwRErs0UuaaysbghQNKmTkgUufIgASYxRa7poFKgub6bwFmRKw2S3ci1zYCYTFI3hhvCnKT5vuc8sxpXHiR7JnmGxGSSNh0DyeJtFRgSmYQFyW7iOkNiSlzTxllHFEhi7INEiSsPEmASU+Kap2Oao5b6bgJnJa40SHYT1xkSU+KaN06xoUCSOyFR4sqDBJjElLhmtx5uGBuubfG2CrThqsKVxshu4TozYipcsz/mgYpWlzXJ/gMVWYUrDxIgElPhmv16m4QCSXOdkMgkLEh2C9cZElPhmsMxZ6b98tB5DyVKXGmUNL9PSYoWSg56Y6Ob59N9M9dfHukQJQxKCqCkWSjZeGUjY6PETZ2R63xpooRDSZmAS7LJJQfFAm5aHFGCKCmTXEKjBLgkm1xyUC3gpkXmikac+dJECYkSB1xSTC45KBeYKelLGOdLEyUsSoBLisklG70AY0fNTbm+79hSm69MkJAg8UAl1aSSg04WcFOpfSrxUgmNEqCSalLJxtECHJXUPpV4qYQFSQAqaSaVbBwtwIHkTeq6D0mQSWiQAJM0i0nKxtECFEjc1AmJTMKCJO6b5HlXwgDJQUcLOOf6euj50kQJi5J9lcxmt1Cy9UoTCiW+L4ieL0KUkChJwCXO5BJ/zCPBzoVOSpJcQqMEuMSZXLJxP5hDSew7PG2+NFFCoiQDl3iTS+LGiMO4h+NSXxNdslxCowS4xJtcslUNUCjJvZTIJSxKCnBJMLlkoxqgFEiuhPc9BVIpcgmNEuCSYHLJUdWAq31tyXxpooRESQUuiSaXbFQDHJd0Nq/zpYkSFiXAJdHkknLQfolfNK9wjVPlEhYloHl1pub1q/CPoKSzLVHzyqMEuMTUvJa6sUPPmJd413f2UVHzyqKkgubVmZrXUo85/dd5X7ooqWpeeZQAl5ia19KOOf7X+dBLiVzCogQ0r87UvNbpoObVd+7QVzWvPEqAS0zNa50Oal79Yoce5CVVzSsNEtC8OlPzWt1BzavvPJCiqnnlUQJUYmpeqz/mwHnn32zQg2mJolcaJSB6dabotfr1zT7KS6WdX+zQo7dKV2WvPEyATEzZa/XrlbBPhBfUO7/YonenCDCRTViYgPDVm8LXGtZb9BRGXlO11TctEFH1ykNk3yTeVL2ORkQWYSECkldvSl4HI6LelYcIsIipdx2NiCzCQgTErt4Uuw5GRKUrDxFgEVPpOhoRWYSFCMhcvSlzHYyIGlceIsAipsZ1NCKyCAsRELh6U+A6GBHVrTxEgEVMdetoRGQRFiIgbfWmtHUwIupaeYgAi5i61tGIyCIkRBqIWr0pah2LSFPRykMEWMRUtI5GRBZhIQJyVm/LWcciopaVhwiwiK1lHYyILMJCBJSs3layjkVEGSsPEWARW8Y6GBFZhIUIaFi9rWEdi4j6VR4iwCK2fjWsT6txPpEp8ae6W8M39as0TEC/Goz96kYN/7/FRA0rD5N9mwRjw7pRw0+MGj5Mrw9zuhOgRDJhUQIy1mDLWDdOW2Qg4mLXtEQZKw8RIBJbxnoQIt71ISKLsBABGWuwZaxjEVHGykMEWMSWsQ5GRBZhIQIy1mDLWOP6YXBHOVhiSYk/ubyLiVJWHibAJLaUNa4P4uSsf99iAta/yllpmICcNdhy1rg+Y5G0/g1T1/pXRSuPEiATW9Ea12cZURBpXdMSFa00REDRGmxF61hEVLTyEAEWsRWtgxGRRUiIuAkkrcGWtA5l5PnCBAkNEiASW9Q6GhKZhAYJyFqDLWsdDIm6ViIkwCS2sHU0JDIJDRKQtgZb2joYErWtREiASWxx62hIZBIaJCBvDba8dTAk6luJkACT2ALX0ZDIJDRIQN4abXnrYEjUthIh2TdJtMWtoyGRSWiQgLY1GtvWsZAobiVCAkxirFsHQyKT0CABfWs09q1jIVHgSoQEmMRYuA6GRCahQQIa12hsXMdCosCVCAkwibFwHQyJTEKDBPSt0di3joVEdSsREmCSC85bny9MkLAgAYFrvODA9fnCBAkNEmCSC05cny9MkJAgcaBxjZfcuDo1rkRIgEkuuXF1alx5kIDGNV5y4+rUuBIhASa55MbVqXHlQQIa13jJjatT40qEBJjkkhtXp8aVBwloXOMlN65OjSsREmCSS25cnRpXHiSgcU2X3Lg6Na5ESPZNki65cXVqXHmQgMY1XXLj6tS4EiEBJrnkxtWpceVBAhrXdMmNq1PjSoQEmOSSG1f3/9O4/vXfWkvM2/3wAQA=",
         "fullStepPoints": null,
         "baselineAltitude": 0.0,
         "trainingDevices": null,
         "groupRetro": null,
         "teamRetro": null,
-        "routeSimilarity": {
-            "id": "58bd0683c6423f38fe6548fd",
-            "name": "北京邮电大学田径场",
-            "routeDistance": 400.0,
-            "duration": 0,
-            "cover": "https://static1.keepcdn.com/route/run/svg/30895a521a3d4f1f97bb400308a361d4.png",
-            "score": 0.9795918367346939,
-            "matchTimes": 5,
-            "autoMatch": true,
-            "runGroup": null,
-            "sceneType": null,
-            "match": false,
-            "relate": true
-        },
-        "playlistId": "",
+        "routeSimilarity": null,
+        "playlistId": null,
         "skinId": "",
         "achievementInfos": [],
         "intervalRunData": null,
-        "pbInfos": [],
+        "pbInfos": [
+            {
+                "mileStone": "maxDuration",
+                "preValue": 0.0,
+                "preLogId": null,
+                "curValue": 1166.0,
+                "curLogId": "59f7ea0ce666860298f0a880_9223370289464236807_hk"
+            },
+            {
+                "mileStone": "maxSteps",
+                "preValue": 0.0,
+                "preLogId": null,
+                "curValue": 1386.0,
+                "curLogId": "59f7ea0ce666860298f0a880_9223370289464236807_hk"
+            }
+        ],
         "challengeInfos": null,
         "rookieFirstShowReward": null,
         "sideEnCard": null,
@@ -168,21 +131,7 @@
         "overseasMapInfo": null,
         "equipmentInfo": null,
         "fences": null,
-        "heartRateGuide": {
-            "title": "连接心率设备",
-            "picture": "https://static1.keepcdn.com/infra-cms/2024/3/14/18/52/553246736447566b58312b6e536d45724d31554a72686a5172647631715057797775575658426f714c76553d/600x420_3050b13536d61df7667c4261872877f756c6c636.png",
-            "schema": "keep://store_item/20110?type=1&pageId=44&productDetailType=1&kbizPos=product_running_complete",
-            "name": "解锁心率和最大摄氧量数据，获取更精准的跑步能力与状态",
-            "button": "立即解锁",
-            "buttonTextColour": "#24c789",
-            "buttonBgColour": [
-                "#ffffff"
-            ],
-            "backgroundColour": [
-                "#f6fbf7",
-                "#ffffff"
-            ]
-        },
+        "heartRateGuide": null,
         "trainingEffect": null,
         "webviewCards": [],
         "feelFeedback": {
@@ -193,38 +142,11 @@
             "schema": null
         },
         "rpeFeedBack": null,
-        "specialDistancePoints": [],
-        "totalSteps": 552,
+        "totalSteps": 1386,
         "stepFrequencies": null,
-        "averageStepFrequency": 145.0,
-        "musicRunCard": null,
-        "fatBurningEffect": null,
-        "vdotCard": null,
-        "runningWorkoutFeedback": null,
-        "trainingRank": {
-            "title": "海淀区排名",
-            "type": "district_week_running",
-            "districtCode": "110108",
-            "districtName": "海淀区",
-            "schema": "https://m.gotokeep.com/training/running/topRank?logId=59f7ea0ce666860298f0a880_9223370338707100065_rn&type=KM3&gradeType=all&districtCode=110108&districtName=海淀区",
-            "districtText": "快来看看海淀区的小伙伴有多能跑",
-            "achievementCardInfos": [],
-            "venue": null
-        },
-        "runAudioGuideFeedback": null,
-        "kelotonData": null,
-        "kelotonLevel": null,
-        "treadmillData": null,
-        "likeCount": 0,
-        "hasSurpriseEvent": false,
-        "composition": null,
-        "equipments": null,
-        "shareImg": "https://apis.map.qq.com/ws/staticmap/v2/?bounds=39.9596878978588,116.35955503110533;39.96151652922453,116.36089391637731&scala=2&path=color:0x24c78900|weight:10|cmp:1|39.961094,116.359664|-52,-30|-161,0|-279,29|-284,23|-215,34|-40,29|-83,11|-108,126|-63,164|-7,157|25,192|107,242|164,128|129,42|230,-26|354,-14|309,-40|91,-53|127,-179|71,-221|-16,-208|-12,-47|4,47&key=ZZZBZ-OEEWF-KZ4JM-NQFCQ-VOAZZ-XLFMK&size=750x550&mapstyle=LIGHT&maptype=roadmap",
-        "vo2MaxInfo": null,
-        "playGroundRunData": null,
-        "marathonRankCard": null,
-        "abilityCard": null,
-        "routeLeader": false
+        "averageStepFrequency": 71.0,
+        "maxDiffOfAltitude": 0.0,
+        "kelotonData": null
     },
     "errorCode": 0,
     "text": ""
